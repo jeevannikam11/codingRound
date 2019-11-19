@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Vagrant Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.testvagrants.listners.TestListener"/>
+    <listener class-name="com.testvagrants.listners.AnnotationTransformer"/>
+  </listeners>
+  <test name="CodingRound(failed)">
+    <classes>
+      <class name="com.testvagrant.tests.OneWayFlightBookingTest">
+        <methods>
+          <include name="afterMethodCalled"/>
+          <include name="tearDown"/>
+          <include name="Setup"/>
+          <include name="beforeMethodCalled"/>
+          <include name="testThatResultsAppearForAOneWayJourney"/>
+          <include name="suiteEndReached"/>
+          <include name="beforeSetup"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.testvagrant.tests.OneWayFlightBookingTest -->
+      <class name="com.testvagrant.tests.HotelRoomBookingTest">
+        <methods>
+          <include name="afterMethodCalled"/>
+          <include name="tearDown"/>
+          <include name="Setup"/>
+          <include name="beforeMethodCalled"/>
+          <include name="shouldBeAbleToSearchForHotels"/>
+          <include name="suiteEndReached"/>
+          <include name="beforeSetup"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.testvagrant.tests.HotelRoomBookingTest -->
+      <class name="com.testvagrant.tests.UserSignInTest">
+        <methods>
+          <include name="afterMethodCalled"/>
+          <include name="tearDown"/>
+          <include name="Setup"/>
+          <include name="beforeMethodCalled"/>
+          <include name="shouldThrowAnErrorIfSignInDetailsAreMissing"/>
+          <include name="suiteEndReached"/>
+          <include name="beforeSetup"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.testvagrant.tests.UserSignInTest -->
+    </classes>
+  </test> <!-- CodingRound(failed) -->
+</suite> <!-- Failed suite [Test Vagrant Test Suite] -->

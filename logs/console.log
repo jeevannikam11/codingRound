@@ -1,0 +1,185 @@
+2019-11-20 00:03:00 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-20 00:03:00 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-20 00:03:00 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-20 00:03:00 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-20 00:03:01 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-20 00:03:01 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-20 00:03:01 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-20 00:03:01 INFO  TestListener:28 - Test Suite started!
+2019-11-20 00:03:01 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-20 00:03:01 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-20 00:03:01 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-20 00:03:08 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-20 00:03:11 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:03:11 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-20 00:03:11 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-20 00:03:16 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-20 00:03:24 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-20 00:03:26 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-20 00:03:27 INFO  TestInitilizer:94 - Check In date selected
+2019-11-20 00:03:28 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-20 00:03:28 INFO  TestInitilizer:114 - Check out date selected
+2019-11-20 00:03:29 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-20 00:03:30 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-20 00:03:41 INFO  TestInitilizer:144 - Search summury validated
+2019-11-20 00:03:41 INFO  TestListener:83 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-11-20 00:03:41 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:03:41 INFO  TestInitilizer:58 - Tests Ended from class :::::HotelRoomBookingTest
+2019-11-20 00:03:41 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-20 00:03:41 INFO  TestListener:57 - Test Suite is ending!
+2019-11-20 00:03:42 INFO  TestInitilizer:79 - Logger Info:: Inside suiteEndReached Method
+2019-11-20 00:03:42 INFO  TestInitilizer:80 - Suite ended
+2019-11-20 00:04:16 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-20 00:04:16 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-20 00:04:16 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-20 00:04:16 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-20 00:04:16 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-20 00:04:16 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-20 00:04:16 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-20 00:04:16 INFO  TestListener:28 - Test Suite started!
+2019-11-20 00:04:16 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-20 00:04:16 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-20 00:04:16 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-20 00:04:23 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-20 00:04:28 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:04:28 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-20 00:04:28 INFO  TestListener:71 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-11-20 00:04:28 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-20 00:04:29 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-20 00:04:30 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-20 00:04:31 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-20 00:04:31 INFO  TestInitilizer:72 - Error message captured
+2019-11-20 00:04:31 INFO  TestListener:83 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-11-20 00:04:31 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:04:31 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-20 00:04:31 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-20 00:04:35 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:04:35 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-20 00:04:36 INFO  TestListener:71 - testThatResultsAppearForAOneWayJourney started!
+2019-11-20 00:04:36 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-20 00:04:36 INFO  TestInitilizer:64 - One way button selected
+2019-11-20 00:04:40 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-20 00:04:47 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-20 00:04:48 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-20 00:04:48 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-20 00:04:49 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-20 00:04:50 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-20 00:04:50 INFO  TestListener:83 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-11-20 00:04:50 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:04:50 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-20 00:04:50 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-20 00:04:55 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:04:55 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-20 00:04:55 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-20 00:05:00 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-20 00:05:08 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-20 00:05:10 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-20 00:05:10 INFO  TestInitilizer:94 - Check In date selected
+2019-11-20 00:05:12 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-20 00:05:12 INFO  TestInitilizer:114 - Check out date selected
+2019-11-20 00:05:13 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-20 00:05:14 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-20 00:05:24 INFO  TestInitilizer:144 - Search summury validated
+2019-11-20 00:05:24 INFO  TestListener:83 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-11-20 00:05:24 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:05:24 INFO  TestInitilizer:58 - Tests Ended from class :::::HotelRoomBookingTest
+2019-11-20 00:05:24 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-20 00:05:24 INFO  TestListener:57 - Test Suite is ending!
+2019-11-20 00:05:25 INFO  TestInitilizer:79 - Logger Info:: Inside suiteEndReached Method
+2019-11-20 00:05:25 INFO  TestInitilizer:80 - Suite ended
+2019-11-20 00:35:00 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4b9e255
+2019-11-20 00:35:00 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-20 00:35:00 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-20 00:35:00 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-20 00:35:00 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-20 00:35:00 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-20 00:35:00 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-20 00:35:00 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-20 00:35:06 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-20 00:35:10 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:35:10 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-20 00:35:10 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-20 00:35:10 INFO  TestInitilizer:64 - One way button selected
+2019-11-20 00:35:14 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-20 00:35:19 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-20 00:35:21 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-20 00:35:21 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-20 00:35:22 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-20 00:35:23 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-20 00:35:23 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:35:23 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-20 00:35:23 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-20 00:35:25 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:35:25 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-20 00:35:26 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-20 00:35:26 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-20 00:35:27 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-20 00:35:28 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-20 00:35:28 INFO  TestInitilizer:72 - Error message captured
+2019-11-20 00:35:28 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:35:28 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-20 00:35:28 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-20 00:35:30 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:35:30 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-20 00:35:37 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-20 00:35:45 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-20 00:35:47 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-20 00:35:47 INFO  TestInitilizer:94 - Check In date selected
+2019-11-20 00:35:48 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-20 00:35:48 INFO  TestInitilizer:114 - Check out date selected
+2019-11-20 00:35:49 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-20 00:35:50 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-20 00:36:01 INFO  TestInitilizer:144 - Search summury validated
+2019-11-20 00:36:01 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:36:01 INFO  TestInitilizer:58 - Tests Ended from class :::::HotelRoomBookingTest
+2019-11-20 00:36:01 INFO  TestInitilizer:79 - Logger Info:: Inside suiteEndReached Method
+2019-11-20 00:36:01 INFO  TestInitilizer:80 - Suite ended
+2019-11-20 00:54:16 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4b9e255
+2019-11-20 00:54:16 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-20 00:54:16 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-20 00:54:16 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-20 00:54:16 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-20 00:54:16 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-20 00:54:16 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-20 00:54:16 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-20 00:54:22 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-20 00:54:24 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:54:24 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-20 00:54:24 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-20 00:54:24 INFO  TestInitilizer:64 - One way button selected
+2019-11-20 00:54:28 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-20 00:54:34 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-20 00:54:36 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-20 00:54:36 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-20 00:54:37 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-20 00:54:38 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-20 00:54:38 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-20 00:54:38 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-20 00:54:38 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-20 00:54:41 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:54:41 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-20 00:54:42 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-20 00:54:42 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-20 00:54:43 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-20 00:54:44 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-20 00:54:44 INFO  TestInitilizer:72 - Error message captured
+2019-11-20 00:54:44 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-20 00:54:44 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-20 00:54:44 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-20 00:54:48 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:54:48 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-20 00:54:54 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-20 00:55:02 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-20 00:55:04 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-20 00:55:04 INFO  TestInitilizer:94 - Check In date selected
+2019-11-20 00:55:05 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-20 00:55:05 INFO  TestInitilizer:114 - Check out date selected
+2019-11-20 00:55:06 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-20 00:55:08 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-20 00:55:20 INFO  TestInitilizer:144 - Search summury validated
+2019-11-20 00:55:20 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-20 00:55:20 INFO  TestInitilizer:58 - Tests Ended from class :::::HotelRoomBookingTest
+2019-11-20 00:55:20 INFO  TestInitilizer:79 - Logger Info:: Inside suiteEndReached Method
+2019-11-20 00:55:20 INFO  TestInitilizer:80 - Suite ended

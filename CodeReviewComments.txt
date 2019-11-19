@@ -1,0 +1,19 @@
+Code Review Comments
+
+FlightBookingTest
+  1. Whole test case is written in one class.
+  2. We can implement POM based framework.
+  3. TestNG can be use more effectively.
+  4. No message after assert failure.
+  5. Implicit wait and Explicit can be used against Thread.sleep
+
+HotelBookingTest
+  1. POM can be used more effectively using PageFactory.
+  2. Constants can be maintained in property file.
+  3. Assertion should be added at the end of testcase.
+  4. Common methods can be added in utils class.
+
+SignInTest
+  1. No message after assert failure.
+  2. TestNG can be use more effectively.
+  3. POM can be used more effectively .

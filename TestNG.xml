@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Vagrant Test Suite">
+	<listeners>
+		<listener class-name="com.testvagrants.listners.TestListener"/>
+		<listener class-name="com.testvagrants.listners.AnnotationTransformer"/>
+	</listeners>
+
+	<test name="CodingRound">
+		<classes>
+			<class name="com.testvagrant.tests.UserSignInTest" />
+			<class name="com.testvagrant.tests.OneWayFlightBookingTest" />
+			<class name="com.testvagrant.tests.HotelRoomBookingTest" />
+		</classes>
+	</test>
+</suite>

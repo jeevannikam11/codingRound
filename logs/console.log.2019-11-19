@@ -1,0 +1,972 @@
+2019-11-19 09:28:33 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 09:28:33 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 09:28:33 INFO  ExtentManager:76 - ExtentReport path has not been set! There is a problem!
+
+2019-11-19 22:18:24 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 22:18:24 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:18:24 INFO  ExtentManager:76 - ExtentReport path has not been set! There is a problem!
+
+2019-11-19 22:20:49 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 22:20:49 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:20:49 INFO  ExtentManager:94 - Directory: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport is created!
+2019-11-19 22:20:49 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:20:49 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:20:49 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:20:49 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:20:49 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:21:09 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:21:09 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:21:09 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:21:09 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:21:09 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:21:09 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:21:09 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:21:09 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:21:09 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:24:35 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 22:24:35 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:24:35 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:24:35 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:24:35 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:24:35 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:24:35 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:24:35 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:24:56 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:24:56 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:24:56 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:24:56 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:24:56 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:24:56 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:24:56 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:24:56 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:24:56 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:32:19 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 22:32:19 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:32:19 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:32:19 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:32:19 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:32:19 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:32:19 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:32:19 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:32:20 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:32:20 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:32:20 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:32:20 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:32:20 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:32:20 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:32:20 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:32:20 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:32:20 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:34:07 INFO  PropertiesCache:21 - java.io.BufferedInputStream@17baae6e
+2019-11-19 22:34:07 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:34:07 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:34:07 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:34:07 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:34:07 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:44:30 INFO  PropertiesCache:21 - java.io.BufferedInputStream@7adda9cc
+2019-11-19 22:44:30 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:44:30 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:44:30 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:44:30 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:44:42 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:44:43 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:44:45 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:45:11 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:45:12 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:45:12 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:45:12 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:45:12 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:45:12 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:45:13 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:45:14 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:45:14 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:49:33 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 22:49:33 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:49:33 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:49:33 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:49:33 INFO  TestInitilizer:38 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-11-19 22:49:33 INFO  TestInitilizer:54 -  =================================================== 
+2019-11-19 22:49:33 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-11-19 22:49:33 INFO  TestInitilizer:56 -  =================================================== 
+2019-11-19 22:49:33 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:49:33 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:49:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:49:33 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:49:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:49:33 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:49:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:49:33 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:49:33 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:57:15 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de5031f
+2019-11-19 22:57:15 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:59:04 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de5031f
+2019-11-19 22:59:04 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:59:04 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:59:04 INFO  ExtentManager:80 - ExtentReport Path for WINDOWS: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:59:04 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:59:04 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:59:04 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:04 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:59:04 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:04 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:59:04 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:04 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:59:04 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 22:59:40 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5c909414
+2019-11-19 22:59:40 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 22:59:40 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 22:59:40 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 22:59:40 INFO  TestListener:28 - Test Suite started!
+2019-11-19 22:59:40 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 22:59:40 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:40 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 22:59:40 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:40 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 22:59:40 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 22:59:41 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 22:59:41 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:04:32 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de5031f
+2019-11-19 23:04:32 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:04:32 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 23:04:32 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 23:04:32 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:04:33 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:04:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:04:33 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:04:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:04:33 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:04:33 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:04:33 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:04:33 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:07:27 INFO  PropertiesCache:21 - java.io.BufferedInputStream@64c87930
+2019-11-19 23:07:27 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:07:27 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+2019-11-19 23:07:27 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1\TestReport
+
+2019-11-19 23:07:28 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:07:28 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:07:28 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:07:28 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:07:28 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:07:28 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:07:28 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:07:28 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:07:28 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:09:24 INFO  PropertiesCache:21 - java.io.BufferedInputStream@64c87930
+2019-11-19 23:09:24 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:09:24 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:09:24 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:09:25 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:09:25 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:09:25 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:09:25 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:09:25 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:09:25 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:09:25 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:09:25 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:09:25 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:11:26 INFO  PropertiesCache:21 - java.io.BufferedInputStream@64c87930
+2019-11-19 23:11:26 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:11:26 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:11:26 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:11:26 INFO  TestInitilizer:36 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:11:26 INFO  TestInitilizer:37 - --------------------------------------------------
+2019-11-19 23:11:26 INFO  TestInitilizer:38 - Executing on ST ......
+2019-11-19 23:11:26 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:11:26 INFO  TestInitilizer:124 -  =================================================== 
+2019-11-19 23:11:26 INFO  TestInitilizer:125 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:11:26 INFO  TestInitilizer:126 -  =================================================== 
+2019-11-19 23:11:26 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:11:26 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:11:26 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:11:26 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:11:26 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:11:26 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:11:26 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:11:26 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:14:26 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:14:26 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:14:26 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:14:26 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:14:26 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:14:26 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:14:26 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:14:26 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:14:26 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:14:26 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:14:26 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:14:47 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:14:47 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:14:47 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:14:47 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:14:47 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:14:47 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:14:47 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:14:47 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:16:28 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:16:28 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:16:28 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:16:28 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:16:29 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:16:29 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:16:29 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:16:29 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:16:29 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:16:29 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:16:29 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:16:29 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:16:29 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:16:29 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:16:29 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:16:29 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:16:29 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:16:29 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:16:29 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:18:43 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:18:43 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:18:43 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:18:43 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:18:43 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:18:43 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:18:43 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:18:43 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:18:43 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:18:43 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:18:43 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:18:43 INFO  TestListener:120 - shouldThrowAnErrorIfSignInDetailsAreMissing skipped!
+2019-11-19 23:18:43 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:18:43 INFO  TestListener:120 - testThatResultsAppearForAOneWayJourney skipped!
+2019-11-19 23:18:43 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:18:43 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:18:43 INFO  TestListener:124 - java.lang.NullPointerException
+2019-11-19 23:18:43 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:18:43 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:19:39 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:19:40 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:19:40 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:19:40 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:19:40 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:19:40 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:19:40 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:19:40 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:19:40 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:19:40 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:19:40 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:19:45 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-19 23:19:49 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:19:49 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-19 23:19:49 INFO  TestListener:71 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-11-19 23:19:50 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-19 23:19:50 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-19 23:19:51 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-19 23:19:52 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-19 23:19:52 INFO  TestInitilizer:72 - Error message captured
+2019-11-19 23:19:52 INFO  TestListener:83 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-11-19 23:19:52 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:19:52 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-19 23:19:52 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-19 23:19:55 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:19:55 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-19 23:19:55 INFO  TestListener:71 - testThatResultsAppearForAOneWayJourney started!
+2019-11-19 23:19:56 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-19 23:19:56 INFO  TestInitilizer:64 - One way button selected
+2019-11-19 23:20:00 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-19 23:20:07 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-19 23:20:08 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-19 23:20:08 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-19 23:20:10 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-19 23:20:11 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-19 23:20:11 INFO  TestListener:83 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-11-19 23:20:11 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:20:11 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-19 23:20:11 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:20:14 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:20:14 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:20:14 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:20:19 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:20:23 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+2019-11-19 23:20:25 INFO  TestInitilizer:86 - Exception occured in clickOnCheckInDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-in date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.totalDur" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="fromHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" data-next-date-offset="1#CheckOutDate#HotelDuration" class="checkin_date keyValue span span24 hasDatepicker placeholder" id="CheckInDate" size="10" placeholder="Pick a date" etitle="Check in date" tabindex="3"> is not clickable at point (455, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+2019-11-19 23:20:25 INFO  TestInitilizer:96 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-11-19 23:20:26 INFO  TestInitilizer:106 - Exception occured in clickOnCheckOutDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-out date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.stayWar" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="toHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" class="checkout_date keyValue span span24 date hasDatepicker placeholder" id="CheckOutDate" size="10" placeholder="Pick a date" etitle="Check out date" tabindex="4"> is not clickable at point (636, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+2019-11-19 23:20:26 INFO  TestInitilizer:116 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-11-19 23:20:28 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:20:29 INFO  TestInitilizer:136 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels" disabled="disabled"> is not clickable at point (855, 404). Other element would receive the click: <a id="ui-id-9" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+2019-11-19 23:21:09 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-11-19 23:21:09 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@f79e], 1 out of 2
+2019-11-19 23:21:09 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:21:09 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:21:09 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:21:09 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:21:09 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:21:12 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:21:54 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vhAgDy}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37041}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 5c879646286c3e5e6444aa58ca0b29ef
+2019-11-19 23:21:56 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:21:56 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:21:57 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:21:57 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:21:58 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:22:00 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:22:35 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:22:35 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:22:35 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:22:35 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:22:36 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:22:36 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:22:36 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:22:36 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:22:36 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:22:36 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:22:36 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:22:42 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-19 23:22:46 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:22:46 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-19 23:22:46 INFO  TestListener:71 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-11-19 23:22:46 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-19 23:22:46 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-19 23:22:47 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-19 23:22:48 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-19 23:22:48 INFO  TestInitilizer:72 - Error message captured
+2019-11-19 23:22:48 INFO  TestListener:83 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-11-19 23:22:48 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:22:48 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-19 23:22:48 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-19 23:22:50 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:22:50 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-19 23:22:50 INFO  TestListener:71 - testThatResultsAppearForAOneWayJourney started!
+2019-11-19 23:22:51 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-19 23:22:51 INFO  TestInitilizer:64 - One way button selected
+2019-11-19 23:22:54 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-19 23:22:59 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-19 23:23:00 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-19 23:23:00 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-19 23:23:01 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-19 23:23:02 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-19 23:23:02 INFO  TestListener:83 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-11-19 23:23:02 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:23:02 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-19 23:23:02 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:23:07 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:23:07 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:23:07 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:23:13 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:23:18 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+2019-11-19 23:23:20 INFO  TestInitilizer:86 - Exception occured in clickOnCheckInDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-in date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.totalDur" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="fromHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" data-next-date-offset="1#CheckOutDate#HotelDuration" class="checkin_date keyValue span span24 hasDatepicker placeholder" id="CheckInDate" size="10" placeholder="Pick a date" etitle="Check in date" tabindex="3"> is not clickable at point (455, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.gVFjgW}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45679}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 4c64a5c3849987afac00112c74882bb5
+2019-11-19 23:23:20 INFO  TestInitilizer:96 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.gVFjgW}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45679}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 4c64a5c3849987afac00112c74882bb5
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-11-19 23:23:21 INFO  TestInitilizer:106 - Exception occured in clickOnCheckOutDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-out date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.stayWar" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="toHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" class="checkout_date keyValue span span24 date hasDatepicker placeholder" id="CheckOutDate" size="10" placeholder="Pick a date" etitle="Check out date" tabindex="4"> is not clickable at point (636, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.gVFjgW}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45679}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 4c64a5c3849987afac00112c74882bb5
+2019-11-19 23:23:21 INFO  TestInitilizer:116 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.gVFjgW}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45679}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 4c64a5c3849987afac00112c74882bb5
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-11-19 23:23:22 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:23:23 INFO  TestInitilizer:136 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels" disabled="disabled"> is not clickable at point (855, 404). Other element would receive the click: <a id="ui-id-9" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.gVFjgW}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45679}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 4c64a5c3849987afac00112c74882bb5
+2019-11-19 23:25:03 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:25:03 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:25:03 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:25:03 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:25:03 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:25:03 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:25:03 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:25:03 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:25:03 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:25:03 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:25:03 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:25:09 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-19 23:25:13 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:25:13 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-19 23:25:13 INFO  TestListener:71 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-11-19 23:25:13 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-19 23:25:13 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-19 23:25:15 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-19 23:25:16 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-19 23:25:16 INFO  TestInitilizer:72 - Error message captured
+2019-11-19 23:25:16 INFO  TestListener:83 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-11-19 23:25:16 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:25:16 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-19 23:25:16 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-19 23:25:19 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:25:19 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-19 23:25:19 INFO  TestListener:71 - testThatResultsAppearForAOneWayJourney started!
+2019-11-19 23:25:19 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-19 23:25:19 INFO  TestInitilizer:64 - One way button selected
+2019-11-19 23:25:24 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-19 23:25:28 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-19 23:25:30 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-19 23:25:30 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-19 23:25:31 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-19 23:25:32 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-19 23:25:32 INFO  TestListener:83 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-11-19 23:25:32 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:25:32 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-19 23:25:32 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:25:36 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:25:36 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:25:36 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:25:44 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:25:49 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.ds4YHB}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:41977}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: a25852a81193e9b7819d1c72ed13df8c
+2019-11-19 23:25:51 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:25:51 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:25:52 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:25:52 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:25:53 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:26:03 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:26:43 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.ds4YHB}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:41977}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: a25852a81193e9b7819d1c72ed13df8c
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-11-19 23:26:43 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@f79e], 1 out of 2
+2019-11-19 23:26:43 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:26:43 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:26:43 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:26:43 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:26:43 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:26:46 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:27:21 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.ds4YHB}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:41977}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: a25852a81193e9b7819d1c72ed13df8c
+2019-11-19 23:27:23 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:27:23 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:27:24 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:27:24 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:27:26 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:27:32 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:30:25 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:30:25 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:30:25 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:30:25 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:30:26 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:30:26 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:30:26 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:30:26 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:30:26 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:30:26 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:30:26 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:30:30 INFO  TestInitilizer:52 - class Name UserSignInTest
+2019-11-19 23:30:32 INFO  TestInitilizer:65 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:30:32 INFO  TestInitilizer:66 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-11-19 23:30:32 INFO  TestListener:71 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-11-19 23:30:33 INFO  TestInitilizer:34 - Clicked on Your trips
+2019-11-19 23:30:33 INFO  TestInitilizer:44 - Clicked on SignIn Button
+2019-11-19 23:30:34 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-11-19 23:30:35 INFO  TestInitilizer:62 - Clicked on signIn button
+2019-11-19 23:30:35 INFO  TestInitilizer:72 - Error message captured
+2019-11-19 23:30:35 INFO  TestListener:83 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-11-19 23:30:35 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-11-19 23:30:35 INFO  TestInitilizer:58 - Tests Ended from class :::::UserSignInTest
+2019-11-19 23:30:35 INFO  TestInitilizer:52 - class Name OneWayFlightBookingTest
+2019-11-19 23:30:37 INFO  TestInitilizer:65 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:30:37 INFO  TestInitilizer:66 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-11-19 23:30:37 INFO  TestListener:71 - testThatResultsAppearForAOneWayJourney started!
+2019-11-19 23:30:38 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-11-19 23:30:38 INFO  TestInitilizer:64 - One way button selected
+2019-11-19 23:30:44 INFO  TestInitilizer:76 - Selected from city : Bangalore
+2019-11-19 23:30:50 INFO  TestInitilizer:88 - Selected to city : Delhi
+2019-11-19 23:30:51 INFO  TestInitilizer:98 - Clicked on depart date
+2019-11-19 23:30:51 INFO  TestInitilizer:108 - Travel date selected as 16th of June
+2019-11-19 23:30:53 INFO  TestInitilizer:118 - Clicked on search flight button
+2019-11-19 23:30:54 INFO  TestInitilizer:128 - Clicked on search flight button
+2019-11-19 23:30:54 INFO  TestListener:83 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-11-19 23:30:54 INFO  TestInitilizer:73 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-11-19 23:30:54 INFO  TestInitilizer:58 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-11-19 23:30:54 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:30:56 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:30:56 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:30:56 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:30:58 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:31:02 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.P5kubx}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:43797}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 25ff7e44c611345b104c276f890e6474
+2019-11-19 23:31:04 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:31:04 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:31:06 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:31:06 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:31:07 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:31:08 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:31:48 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.P5kubx}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:43797}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 25ff7e44c611345b104c276f890e6474
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-11-19 23:31:48 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@f79e], 1 out of 2
+2019-11-19 23:31:48 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:31:48 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:31:48 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:31:48 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:31:48 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:31:52 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:31:57 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:31:59 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:31:59 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:32:00 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:32:00 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:32:02 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:32:23 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:32:23 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:32:23 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:32:23 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:32:23 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:32:23 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:32:23 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:32:23 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:32:23 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:32:23 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:32:23 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:32:28 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:32:30 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:32:30 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:32:30 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:32:36 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:32:42 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:32:44 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:32:45 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:32:46 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:32:46 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:32:47 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:32:58 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:33:17 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodjava.lang.NullPointerException
+2019-11-19 23:33:17 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@399c4be1], 1 out of 2
+2019-11-19 23:33:17 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:33:17 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:33:17 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:33:17 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:33:17 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:33:17 INFO  TestInitilizer:63 - Exception occured while clicking on Hotels link : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.XwXJNM}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42609}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 15148ce3c090c542aafcf21a16b7f036
+*** Element info: {Using=link text, value=Hotels}
+2019-11-19 23:33:19 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.XwXJNM}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42609}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 15148ce3c090c542aafcf21a16b7f036
+*** Element info: {Using=id, value=Tags}
+2019-11-19 23:33:21 INFO  TestInitilizer:86 - Exception occured in clickOnCheckInDate methodorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.XwXJNM}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42609}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 15148ce3c090c542aafcf21a16b7f036
+*** Element info: {Using=id, value=CheckInDate}
+2019-11-19 23:33:22 INFO  TestInitilizer:96 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.XwXJNM}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42609}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 15148ce3c090c542aafcf21a16b7f036
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-11-19 23:34:15 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:34:15 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:34:15 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:34:15 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:34:15 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:34:15 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:34:15 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:34:15 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:34:15 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:34:15 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:34:15 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:34:20 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:34:24 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:34:24 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:34:24 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:34:29 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:34:33 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:34:35 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:34:36 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:34:37 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:34:37 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:34:38 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:34:47 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:35:27 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.x6oLaU}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:37887}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 167b138b44e287ad9fd026fb207a0f04
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-11-19 23:35:27 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@399c4be1], 1 out of 2
+2019-11-19 23:35:27 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:35:28 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:35:28 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:35:28 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:35:28 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:35:32 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:35:36 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:35:38 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:35:39 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:35:40 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:35:40 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:35:41 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:36:54 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:36:54 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:36:54 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:36:54 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:36:55 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:36:55 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:36:55 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:36:55 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:36:55 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:36:55 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:36:55 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:37:00 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:37:04 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:37:04 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:37:04 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:37:10 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:37:16 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:37:18 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:37:18 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:37:20 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:37:20 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:37:21 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:37:31 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:38:11 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.vG3Tbd}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:40927}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: b5ce4805d3e97681b4631d2277b8616d
+*** Element info: {Using=xpath, value=//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']}
+2019-11-19 23:38:11 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@399c4be1], 1 out of 2
+2019-11-19 23:38:11 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:38:11 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:38:11 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:38:11 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:38:11 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:38:17 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:38:21 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:38:23 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:38:24 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:38:25 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:38:25 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:38:26 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:38:36 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:39:55 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:39:55 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:39:55 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:39:55 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:39:56 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:39:56 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:39:56 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:39:56 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:39:56 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:39:56 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:39:56 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:40:32 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:40:34 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:40:34 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:40:34 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:40:40 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:40:56 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.jXyk8G}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45339}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 49f2b58df28de576cb45427cb4e61efe
+2019-11-19 23:40:58 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:40:59 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:41:00 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:41:00 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:41:01 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:41:12 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:41:52 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.jXyk8G}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45339}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 49f2b58df28de576cb45427cb4e61efe
+*** Element info: {Using=xpath, value=//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']}
+2019-11-19 23:41:52 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@399c4be1], 1 out of 2
+2019-11-19 23:41:52 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:41:52 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:41:52 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:41:52 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:41:52 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:42:07 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:42:42 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.jXyk8G}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45339}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 49f2b58df28de576cb45427cb4e61efe
+2019-11-19 23:42:44 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:42:44 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:42:45 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:42:45 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:42:46 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:42:56 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:43:36 INFO  TestInitilizer:146 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.jXyk8G}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:45339}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 49f2b58df28de576cb45427cb4e61efe
+*** Element info: {Using=xpath, value=//div[@id='ResultContainer_1_1']//a[@id='modifySearchLink']}
+2019-11-19 23:43:36 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@399c4be1], 2 out of 2
+2019-11-19 23:43:36 INFO  TestListener:120 - shouldBeAbleToSearchForHotels skipped!
+2019-11-19 23:43:36 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:43:36 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:43:36 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:43:36 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:43:49 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:50:53 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:50:53 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:50:53 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:50:53 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:50:53 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:50:53 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:50:53 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:50:53 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:50:53 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:50:53 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:50:53 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:51:00 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:51:03 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:51:03 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:51:03 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:51:08 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:51:25 INFO  TestInitilizer:77 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.qxp37S}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:41333}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 9497780c57e782467a247371e438ff15
+2019-11-19 23:53:54 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:53:54 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:53:54 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:53:54 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:53:54 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:53:54 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:53:54 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:53:54 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:53:54 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:53:54 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:53:54 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:54:00 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:54:04 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:54:04 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:54:04 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:54:11 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:54:19 INFO  TestInitilizer:74 - Location entered for search hotel : Indiranagar, Bangalore
+2019-11-19 23:54:21 INFO  TestInitilizer:84 - clicked on checkin date
+2019-11-19 23:54:21 INFO  TestInitilizer:94 - Check In date selected
+2019-11-19 23:54:22 INFO  TestInitilizer:104 - clicked on checkout date
+2019-11-19 23:54:22 INFO  TestInitilizer:114 - Check out date selected
+2019-11-19 23:54:24 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:54:31 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:57:38 INFO  PropertiesCache:21 - java.io.BufferedInputStream@75f9eccc
+2019-11-19 23:57:38 INFO  PropertiesCache:22 - Read all properties from file
+2019-11-19 23:57:38 INFO  ExtentManager:99 - Directory already exists: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+2019-11-19 23:57:38 INFO  ExtentManager:80 - ExtentReport Path for LINUX: /home/jeevan/Desktop/codingRound-testvagrant-1.0.1/codingRound-testvagrant-1.0.1/TestReport
+
+2019-11-19 23:57:40 INFO  TestInitilizer:37 - here is the URL :: https://www.cleartrip.com/
+2019-11-19 23:57:40 INFO  TestInitilizer:38 - --------------------------------------------------
+2019-11-19 23:57:40 INFO  TestInitilizer:39 - Executing on ST ......
+2019-11-19 23:57:40 INFO  TestListener:28 - Test Suite started!
+2019-11-19 23:57:40 INFO  TestInitilizer:125 -  =================================================== 
+2019-11-19 23:57:40 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-11-19 23:57:40 INFO  TestInitilizer:127 -  =================================================== 
+2019-11-19 23:57:46 INFO  TestInitilizer:52 - class Name HotelRoomBookingTest
+2019-11-19 23:57:50 INFO  TestInitilizer:65 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:57:50 INFO  TestInitilizer:66 - shouldBeAbleToSearchForHotels Started ::::
+2019-11-19 23:57:50 INFO  TestListener:71 - shouldBeAbleToSearchForHotels started!
+2019-11-19 23:57:56 INFO  TestInitilizer:61 - Clicked on hotels link
+2019-11-19 23:58:14 INFO  TestInitilizer:76 - Exception occured in enterLocationToSearchHotel method : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ui\-id\-13"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.CFIcaE}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42781}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 7f66d64701a634ef7d665651eeb7ce79
+*** Element info: {Using=id, value=ui-id-13}
+2019-11-19 23:58:16 INFO  TestInitilizer:86 - Exception occured in clickOnCheckInDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-in date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.totalDur" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="fromHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" data-next-date-offset="1#CheckOutDate#HotelDuration" class="checkin_date keyValue span span24 hasDatepicker placeholder" id="CheckInDate" size="10" placeholder="Pick a date" etitle="Check in date" tabindex="3"> is not clickable at point (455, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.CFIcaE}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42781}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 7f66d64701a634ef7d665651eeb7ce79
+2019-11-19 23:58:26 INFO  TestInitilizer:96 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.CFIcaE}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42781}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 7f66d64701a634ef7d665651eeb7ce79
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-11-19 23:58:27 INFO  TestInitilizer:106 - Exception occured in clickOnCheckOutDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-out date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.stayWar" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="toHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" class="checkout_date keyValue span span24 date hasDatepicker placeholder" id="CheckOutDate" size="10" placeholder="Pick a date" etitle="Check out date" tabindex="4"> is not clickable at point (636, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1" class="">...</a>
+  (Session info: chrome=77.0.3865.90)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.CFIcaE}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42781}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 7f66d64701a634ef7d665651eeb7ce79
+2019-11-19 23:58:37 INFO  TestInitilizer:116 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'jeevan-HP-15-Notebook-PC', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.0.0-31-generic', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}), userDataDir=/tmp/.com.google.Chrome.CFIcaE}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=LINUX, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:42781}, acceptInsecureCerts=false, browserVersion=77.0.3865.90, browserName=chrome, javascriptEnabled=true, platformName=LINUX, setWindowRect=true}]
+Session ID: 7f66d64701a634ef7d665651eeb7ce79
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-11-19 23:58:38 INFO  TestInitilizer:124 - Travellers selected from dropdown : 1 room, 2 adults
+2019-11-19 23:58:40 INFO  TestInitilizer:134 - Clicked on search hotels button
+2019-11-19 23:58:50 INFO  TestInitilizer:144 - Search summury validated
+2019-11-19 23:58:50 INFO  TestListener:83 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-11-19 23:58:50 INFO  TestInitilizer:73 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-11-19 23:58:50 INFO  TestInitilizer:58 - Tests Ended from class :::::HotelRoomBookingTest
+2019-11-19 23:58:50 INFO  TestListener:55 - Congrats, All test cases are passed
+2019-11-19 23:58:50 INFO  TestListener:57 - Test Suite is ending!
+2019-11-19 23:58:51 INFO  TestInitilizer:79 - Logger Info:: Inside suiteEndReached Method
+2019-11-19 23:58:51 INFO  TestInitilizer:80 - Suite ended

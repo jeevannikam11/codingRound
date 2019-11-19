@@ -1,0 +1,1432 @@
+2019-05-29 01:00:22 INFO  PropertiesCache:21 - java.io.BufferedInputStream@5649fd9b
+2019-05-29 01:00:22 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:00:22 INFO  TestInitilizer:44 - :::::::::::::::::::: Starting to execute test cases ::::::::::::::::::::
+2019-05-29 01:01:04 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4bec1f0c
+2019-05-29 01:01:04 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:01:04 INFO  TestInitilizer:44 - :::::::::::::::::::: Starting to execute test cases ::::::::::::::::::::
+2019-05-29 01:01:04 INFO  TestInitilizer:50 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:01:04 INFO  TestInitilizer:124 -  =================================================== 
+2019-05-29 01:01:04 INFO  TestInitilizer:125 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:01:04 INFO  TestInitilizer:126 -  =================================================== 
+2019-05-29 01:02:37 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4bec1f0c
+2019-05-29 01:02:37 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:02:37 INFO  TestInitilizer:44 - :::::::::::::::::::: Starting to execute test cases ::::::::::::::::::::
+2019-05-29 01:02:37 INFO  TestInitilizer:50 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:02:37 INFO  TestInitilizer:124 -  =================================================== 
+2019-05-29 01:02:37 INFO  TestInitilizer:125 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:02:37 INFO  TestInitilizer:126 -  =================================================== 
+2019-05-29 01:02:48 INFO  TestInitilizer:53 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:02:48 INFO  TestInitilizer:60 - class Name OneWayFlightBookingTest
+2019-05-29 01:04:53 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4bec1f0c
+2019-05-29 01:04:53 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:04:53 INFO  TestInitilizer:44 - :::::::::::::::::::: Starting to execute test cases ::::::::::::::::::::
+2019-05-29 01:04:53 INFO  TestInitilizer:50 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:04:53 INFO  TestInitilizer:125 -  =================================================== 
+2019-05-29 01:04:53 INFO  TestInitilizer:126 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:04:53 INFO  TestInitilizer:127 -  =================================================== 
+2019-05-29 01:05:04 INFO  TestInitilizer:53 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:05:04 INFO  TestInitilizer:60 - class Name OneWayFlightBookingTest
+2019-05-29 01:05:04 INFO  TestInitilizer:61 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:10:43 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:10:43 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:10:43 INFO  TestInitilizer:45 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:10:43 INFO  TestInitilizer:120 -  =================================================== 
+2019-05-29 01:10:43 INFO  TestInitilizer:121 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:10:43 INFO  TestInitilizer:122 -  =================================================== 
+2019-05-29 01:10:52 INFO  TestInitilizer:48 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:10:52 INFO  TestInitilizer:55 - class Name OneWayFlightBookingTest
+2019-05-29 01:10:52 INFO  TestInitilizer:56 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:11:43 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:11:43 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:11:43 INFO  TestInitilizer:45 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:11:43 INFO  TestInitilizer:120 -  =================================================== 
+2019-05-29 01:11:43 INFO  TestInitilizer:121 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:11:43 INFO  TestInitilizer:122 -  =================================================== 
+2019-05-29 01:11:53 INFO  TestInitilizer:48 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:11:53 INFO  TestInitilizer:55 - class Name OneWayFlightBookingTest
+2019-05-29 01:11:53 INFO  TestInitilizer:56 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:11:53 INFO  TestInitilizer:69 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:11:53 INFO  TestInitilizer:70 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:11:53 INFO  TestInitilizer:44 - Exception occured while clicking on OneWay button : org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.org.chromium.Chromium.Top19F}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.169, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, cssSelectorsEnabled=true}]
+Session ID: adaa5d92dbcac363fb7d732c0e7a0582
+*** Element info: {Using=id, value=OneWay}
+2019-05-29 01:11:53 INFO  TestInitilizer:77 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:11:53 INFO  TestInitilizer:62 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:11:53 INFO  TestInitilizer:83 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:11:53 INFO  TestInitilizer:84 - Suite ended
+2019-05-29 01:13:45 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:13:45 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:13:45 INFO  TestInitilizer:45 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:13:45 INFO  TestInitilizer:121 -  =================================================== 
+2019-05-29 01:13:45 INFO  TestInitilizer:122 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:13:45 INFO  TestInitilizer:123 -  =================================================== 
+2019-05-29 01:13:55 INFO  TestInitilizer:48 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:13:55 INFO  TestInitilizer:55 - class Name OneWayFlightBookingTest
+2019-05-29 01:13:55 INFO  TestInitilizer:56 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:14:27 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:14:27 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:14:27 INFO  TestInitilizer:45 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:14:27 INFO  TestInitilizer:120 -  =================================================== 
+2019-05-29 01:14:27 INFO  TestInitilizer:121 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:14:27 INFO  TestInitilizer:122 -  =================================================== 
+2019-05-29 01:14:37 INFO  TestInitilizer:48 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:14:37 INFO  TestInitilizer:55 - class Name OneWayFlightBookingTest
+2019-05-29 01:14:37 INFO  TestInitilizer:56 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:14:37 INFO  TestInitilizer:69 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:14:37 INFO  TestInitilizer:70 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:14:37 INFO  TestInitilizer:44 - Exception occured while clicking on OneWay button : org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.org.chromium.Chromium.oNzn1E}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.169, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, cssSelectorsEnabled=true}]
+Session ID: 4fe85c226aedeaf170bcbd8f863466ff
+*** Element info: {Using=id, value=OneWay}
+2019-05-29 01:14:37 INFO  TestInitilizer:77 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:14:37 INFO  TestInitilizer:62 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:14:37 INFO  TestInitilizer:83 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:14:37 INFO  TestInitilizer:84 - Suite ended
+2019-05-29 01:21:58 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:21:58 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:21:58 INFO  TestInitilizer:45 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:21:58 INFO  TestInitilizer:120 -  =================================================== 
+2019-05-29 01:21:58 INFO  TestInitilizer:121 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:21:58 INFO  TestInitilizer:122 -  =================================================== 
+2019-05-29 01:22:15 INFO  TestInitilizer:48 - :::::::::::::::::::: Launching Web Application ::::::::::::::::::::
+2019-05-29 01:22:15 INFO  TestInitilizer:55 - class Name OneWayFlightBookingTest
+2019-05-29 01:22:15 INFO  TestInitilizer:56 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:22:15 INFO  TestInitilizer:69 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:22:15 INFO  TestInitilizer:70 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:22:15 INFO  TestInitilizer:44 - Exception occured while clicking on OneWay button : org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6e3:db0:8d16:950e:b01c:e1ee%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.org.chromium.Chromium.TuLMJc}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.169, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, cssSelectorsEnabled=true}]
+Session ID: 4e2820a2b91b55781e8503922b004f4b
+*** Element info: {Using=id, value=OneWay}
+2019-05-29 01:22:15 INFO  TestInitilizer:53 - Exception occured in enterFromCity methodorg.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6e3:db0:8d16:950e:b01c:e1ee%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.org.chromium.Chromium.TuLMJc}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.169, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, cssSelectorsEnabled=true}]
+Session ID: 4e2820a2b91b55781e8503922b004f4b
+*** Element info: {Using=id, value=FromTag}
+2019-05-29 01:22:15 INFO  TestInitilizer:62 - Exception occured in enterFromCity methodorg.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6e3:db0:8d16:950e:b01c:e1ee%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.org.chromium.Chromium.TuLMJc}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.169, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, cssSelectorsEnabled=true}]
+Session ID: 4e2820a2b91b55781e8503922b004f4b
+*** Element info: {Using=id, value=Delhi}
+2019-05-29 01:22:15 INFO  TestInitilizer:77 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:22:15 INFO  TestInitilizer:62 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:22:15 INFO  TestInitilizer:83 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:22:15 INFO  TestInitilizer:84 - Suite ended
+2019-05-29 01:29:59 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:29:59 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:29:59 INFO  TestInitilizer:43 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:29:59 INFO  TestInitilizer:109 -  =================================================== 
+2019-05-29 01:29:59 INFO  TestInitilizer:110 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:29:59 INFO  TestInitilizer:111 -  =================================================== 
+2019-05-29 01:39:13 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:39:13 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:39:13 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:39:13 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 01:39:13 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:39:13 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 01:41:19 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:41:19 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:41:19 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:41:19 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 01:41:19 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:41:19 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 01:41:43 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:41:43 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:41:43 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 01:41:43 INFO  TestInitilizer:42 - Clicked on Attendance button
+2019-05-29 01:41:57 INFO  TestInitilizer:62 - Exception occured in enterFromCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"Delhi"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6cc:51d5:40d5:baf:ac1d:939%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:54480}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.nGolWg}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 647e95aec04559fdc3ed36e1d611e9bc
+*** Element info: {Using=id, value=Delhi}
+2019-05-29 01:41:57 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:41:57 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:41:58 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:41:58 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 01:44:09 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:44:09 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:44:09 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:44:09 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 01:44:09 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:44:09 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 01:44:27 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:44:27 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:44:28 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 01:44:28 INFO  TestInitilizer:43 - Clicked on Attendance button
+2019-05-29 01:44:41 INFO  TestInitilizer:65 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6cc:51d5:40d5:baf:ac1d:939%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55300}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.AOqgsz}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9e600c0bac80b7b219a3b34f46ac0193
+*** Element info: {Using=id, value=toTag}
+2019-05-29 01:44:41 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:44:41 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:44:41 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:44:41 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 01:46:42 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:46:42 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:46:42 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:46:42 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 01:46:42 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:46:42 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 01:46:55 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:46:55 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:46:55 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 01:46:55 INFO  TestInitilizer:43 - Clicked on Attendance button
+2019-05-29 01:47:11 INFO  TestInitilizer:67 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: '2402:3a80:6cc:51d5:40d5:baf:ac1d:939%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56002}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.kU2KFV}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e9902fb549af84cdd8ae6e777c3ef334
+*** Element info: {Using=id, value=toTag}
+2019-05-29 01:47:11 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:47:11 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:47:13 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:47:13 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 01:47:29 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 01:47:29 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 01:47:29 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 01:47:29 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 01:47:29 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 01:47:29 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 01:47:42 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:47:42 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 01:47:42 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 01:47:42 INFO  TestInitilizer:43 - Clicked on Attendance button
+2019-05-29 01:47:59 INFO  TestInitilizer:67 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56265}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.p648fq}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0ef64adc9a4b98f99853cbf9cfa3da6c
+*** Element info: {Using=id, value=toTag}
+2019-05-29 01:47:59 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 01:47:59 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 01:48:00 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 01:48:00 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:15:34 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:15:34 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:15:34 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:15:34 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:15:34 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:15:34 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:15:48 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:15:48 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:15:48 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 02:15:48 INFO  TestInitilizer:51 - Clicked on Attendance button
+2019-05-29 02:16:03 INFO  TestInitilizer:65 - Exception occured in enterFromCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63149}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.F5xy5y}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 62dbd66b2d1ebf53689f317c4edcdbca
+2019-05-29 02:16:14 INFO  TestInitilizer:76 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63149}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.F5xy5y}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 62dbd66b2d1ebf53689f317c4edcdbca
+*** Element info: {Using=id, value=toTag}
+2019-05-29 02:16:14 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:16:14 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:16:14 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:16:14 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:18:08 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:18:08 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:18:09 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:18:09 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:18:09 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:18:09 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:18:21 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:18:21 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:18:21 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 02:18:21 INFO  TestInitilizer:57 - Clicked on Attendance button
+2019-05-29 02:18:37 INFO  TestInitilizer:70 - Exception occured in enterFromCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63827}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.zJ7cNy}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8130e8a0576c16aff16e8be0cfa3c2b0
+2019-05-29 02:18:48 INFO  TestInitilizer:81 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63827}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.zJ7cNy}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8130e8a0576c16aff16e8be0cfa3c2b0
+*** Element info: {Using=id, value=toTag}
+2019-05-29 02:18:48 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:18:48 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:18:48 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:18:48 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:20:48 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:20:48 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:20:48 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:20:48 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:20:48 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:20:48 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:21:02 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:21:02 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:21:02 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 02:21:02 INFO  TestInitilizer:57 - One way button selected
+2019-05-29 02:21:20 INFO  TestInitilizer:83 - Exception occured in enterToCity methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"toTag"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64520}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.euZCyB}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f308a9a1c48a11c4fdb103c1fa430fa9
+*** Element info: {Using=id, value=toTag}
+2019-05-29 02:21:20 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:21:20 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:21:20 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:21:20 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:22:53 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:22:53 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:22:53 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:22:53 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:22:53 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:22:53 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:23:07 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:23:07 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:23:07 INFO  TestInitilizer:333 - Element is displayed AttendanceButton
+2019-05-29 02:23:07 INFO  TestInitilizer:57 - One way button selected
+2019-05-29 02:23:21 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:23:21 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:23:21 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:23:21 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:47:34 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:47:34 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:47:34 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:47:34 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:47:34 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:47:34 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:47:52 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:47:52 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:47:52 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 02:47:52 INFO  TestInitilizer:56 - One way button selected
+2019-05-29 02:48:00 INFO  TestInitilizer:68 - Selected from city : Bangalore
+2019-05-29 02:48:06 INFO  TestInitilizer:80 - Selected to city : Delhi
+2019-05-29 02:48:07 INFO  TestInitilizer:90 - Travel date selected as 16th of next month
+2019-05-29 02:48:08 INFO  TestInitilizer:100 - Clicked on search flight button
+2019-05-29 02:48:08 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:48:08 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:48:08 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:48:08 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:48:27 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:48:27 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:48:27 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:48:27 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:48:27 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:48:27 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:48:41 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:48:41 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:48:41 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 02:48:41 INFO  TestInitilizer:56 - One way button selected
+2019-05-29 02:48:49 INFO  TestInitilizer:68 - Selected from city : Bangalore
+2019-05-29 02:48:56 INFO  TestInitilizer:80 - Selected to city : Delhi
+2019-05-29 02:48:57 INFO  TestInitilizer:90 - Travel date selected as 16th of next month
+2019-05-29 02:48:58 INFO  TestInitilizer:100 - Clicked on search flight button
+2019-05-29 02:48:59 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:48:59 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:48:59 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:48:59 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 02:57:28 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 02:57:28 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 02:57:28 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 02:57:28 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 02:57:28 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 02:57:28 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 02:57:48 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:57:48 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 02:57:49 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 02:57:49 INFO  TestInitilizer:59 - One way button selected
+2019-05-29 02:57:57 INFO  TestInitilizer:71 - Selected from city : Bangalore
+2019-05-29 02:58:01 INFO  TestInitilizer:83 - Selected to city : Delhi
+2019-05-29 02:58:03 INFO  TestInitilizer:93 - Travel date selected as 16th of next month
+2019-05-29 02:58:04 INFO  TestInitilizer:103 - Clicked on search flight button
+2019-05-29 02:58:06 INFO  TestInitilizer:113 - Clicked on search flight button
+2019-05-29 02:58:06 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 02:58:06 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 02:58:06 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 02:58:06 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 12:54:42 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 12:54:42 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 12:54:42 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 12:54:42 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 12:54:42 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 12:54:42 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 12:55:00 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 12:55:00 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 12:55:09 INFO  TestInitilizer:44 - Clicked on hotels link
+2019-05-29 12:55:12 INFO  TestInitilizer:54 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 12:55:22 INFO  TestInitilizer:66 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60385}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.7WdFII}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72bc4eebb5f26a7098f5c8512e9d90d9
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 12:55:32 INFO  TestInitilizer:76 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60385}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.7WdFII}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72bc4eebb5f26a7098f5c8512e9d90d9
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-05-29 12:55:32 INFO  TestInitilizer:84 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 12:55:32 INFO  TestInitilizer:96 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels"> is not clickable at point (1018, 408). Other element would receive the click: <a class="ui-state-default " href="javascript:void(0);" original-title="">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60385}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.7WdFII}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72bc4eebb5f26a7098f5c8512e9d90d9
+2019-05-29 12:55:32 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 12:55:32 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 12:55:33 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 12:55:33 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:04:51 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:04:51 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:04:51 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:04:51 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:04:51 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:04:51 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:05:06 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:05:06 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:05:12 INFO  TestInitilizer:47 - Clicked on hotels link
+2019-05-29 13:05:16 INFO  TestInitilizer:58 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:05:17 INFO  TestInitilizer:68 - Check In date selected
+2019-05-29 13:05:17 INFO  TestInitilizer:80 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62886}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.84Dkgx}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3525ec36c0cf3eb391433fd1c7b19031
+2019-05-29 13:05:17 INFO  TestInitilizer:88 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:05:17 INFO  TestInitilizer:100 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels"> is not clickable at point (1018, 408). Other element would receive the click: <a class="ui-state-default " href="javascript:void(0);" original-title="">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62886}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.84Dkgx}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3525ec36c0cf3eb391433fd1c7b19031
+2019-05-29 13:05:17 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:05:17 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:05:17 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:05:17 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:06:06 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:06:06 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:06:06 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:06:06 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:06:06 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:06:06 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:06:19 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:06:19 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:06:26 INFO  TestInitilizer:47 - Clicked on hotels link
+2019-05-29 13:06:33 INFO  TestInitilizer:58 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:06:36 INFO  TestInitilizer:68 - Check In date selected
+2019-05-29 13:06:37 INFO  TestInitilizer:78 - Check out date selected
+2019-05-29 13:06:38 INFO  TestInitilizer:88 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:06:48 INFO  TestInitilizer:98 - Clicked on search hotels button
+2019-05-29 13:06:48 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:06:48 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:06:48 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:06:48 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:07:55 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:07:55 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:07:55 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:07:55 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:07:55 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:07:55 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:08:13 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:08:13 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:08:22 INFO  TestInitilizer:48 - Clicked on hotels link
+2019-05-29 13:08:29 INFO  TestInitilizer:60 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:08:32 INFO  TestInitilizer:70 - Check In date selected
+2019-05-29 13:08:33 INFO  TestInitilizer:80 - Check out date selected
+2019-05-29 13:08:34 INFO  TestInitilizer:90 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:08:47 INFO  TestInitilizer:100 - Clicked on search hotels button
+2019-05-29 13:08:47 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:08:47 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:08:47 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:08:47 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:12:22 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:12:22 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:12:22 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:12:22 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:12:22 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:12:22 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:12:36 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:12:36 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:12:44 INFO  TestInitilizer:49 - Clicked on hotels link
+2019-05-29 13:12:53 INFO  TestInitilizer:62 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:13:05 INFO  TestInitilizer:74 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64039}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.IWlkoo}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5b3972b9b310df30e76ada97265d0beb
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 13:13:16 INFO  TestInitilizer:84 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64039}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.IWlkoo}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5b3972b9b310df30e76ada97265d0beb
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-05-29 13:13:17 INFO  TestInitilizer:92 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:13:18 INFO  TestInitilizer:104 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels" disabled="disabled"> is not clickable at point (1018, 408). Other element would receive the click: <a id="ui-id-9" tabindex="-1">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64039}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.IWlkoo}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5b3972b9b310df30e76ada97265d0beb
+2019-05-29 13:13:18 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:13:18 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:13:18 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:13:18 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:15:52 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:15:52 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:15:52 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:15:52 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:15:52 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:15:52 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:16:07 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:16:07 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:16:16 INFO  TestInitilizer:49 - Clicked on hotels link
+2019-05-29 13:16:23 INFO  TestInitilizer:62 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:16:25 INFO  TestInitilizer:72 - Check In date selected
+2019-05-29 13:16:26 INFO  TestInitilizer:82 - Check out date selected
+2019-05-29 13:16:27 INFO  TestInitilizer:92 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:16:29 INFO  TestInitilizer:102 - Clicked on search hotels button
+2019-05-29 13:16:29 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:16:29 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:16:29 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:16:29 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:16:35 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:16:35 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:16:35 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:16:35 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:16:35 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:16:35 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:16:51 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:16:51 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:16:58 INFO  TestInitilizer:49 - Clicked on hotels link
+2019-05-29 13:17:07 INFO  TestInitilizer:62 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:17:09 INFO  TestInitilizer:72 - Check In date selected
+2019-05-29 13:17:10 INFO  TestInitilizer:82 - Check out date selected
+2019-05-29 13:17:11 INFO  TestInitilizer:92 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:17:12 INFO  TestInitilizer:102 - Clicked on search hotels button
+2019-05-29 13:17:12 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:17:12 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:17:12 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:17:12 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:18:06 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:18:06 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:18:06 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:18:06 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:18:06 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:18:06 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:18:22 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:18:22 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:18:31 INFO  TestInitilizer:49 - Clicked on hotels link
+2019-05-29 13:18:38 INFO  TestInitilizer:62 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:18:40 INFO  TestInitilizer:72 - Check In date selected
+2019-05-29 13:18:41 INFO  TestInitilizer:82 - Check out date selected
+2019-05-29 13:18:42 INFO  TestInitilizer:92 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:18:44 INFO  TestInitilizer:102 - Clicked on search hotels button
+2019-05-29 13:18:54 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:18:54 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:18:54 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:18:54 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:25:52 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:25:52 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:25:52 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:25:52 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:25:52 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:25:52 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:26:10 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:26:10 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:26:40 INFO  TestInitilizer:54 - Exception occured while clicking on Hotels link : org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49594}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.jDJ3Pz}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d97853065fbbd3a2de78569672809f4a
+2019-05-29 13:26:55 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:26:55 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:26:55 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:26:55 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:26:55 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:26:55 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:27:09 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:27:09 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:27:15 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 13:27:24 INFO  TestInitilizer:65 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:27:26 INFO  TestInitilizer:75 - Check In date selected
+2019-05-29 13:27:27 INFO  TestInitilizer:85 - Check out date selected
+2019-05-29 13:27:28 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:27:29 INFO  TestInitilizer:105 - Clicked on search hotels button
+2019-05-29 13:27:39 INFO  TestInitilizer:117 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49715}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Ycoicp}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4625e581dc0b07bbdccd652e78c80855
+*** Element info: {Using=class name, value=secondaryBar listViewSecondaryBar}
+2019-05-29 13:27:39 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:27:39 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:27:39 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:27:39 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:29:22 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:29:22 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:29:22 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:29:22 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:29:22 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:29:22 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:29:35 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:29:35 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:29:50 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 13:30:00 INFO  TestInitilizer:65 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:30:02 INFO  TestInitilizer:75 - Check In date selected
+2019-05-29 13:30:03 INFO  TestInitilizer:85 - Check out date selected
+2019-05-29 13:30:04 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:30:06 INFO  TestInitilizer:105 - Clicked on search hotels button
+2019-05-29 13:30:21 INFO  TestInitilizer:117 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50166}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.6trisL}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 74f533b84560760df82b626ecdbb735e
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-05-29 13:30:21 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:30:21 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:30:21 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:30:21 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 13:30:52 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 13:30:52 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 13:30:52 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 13:30:52 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 13:30:52 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 13:30:52 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 13:31:06 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:31:06 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 13:31:20 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 13:31:26 INFO  TestInitilizer:65 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 13:31:28 INFO  TestInitilizer:75 - Check In date selected
+2019-05-29 13:31:29 INFO  TestInitilizer:85 - Check out date selected
+2019-05-29 13:31:31 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 13:31:32 INFO  TestInitilizer:105 - Clicked on search hotels button
+2019-05-29 13:31:42 INFO  TestInitilizer:115 - Search summury validated
+2019-05-29 13:31:42 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 13:31:42 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 13:31:42 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 13:31:42 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 14:13:39 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 14:13:39 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 14:13:39 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 14:13:39 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 14:13:39 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 14:13:39 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 14:13:58 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 14:13:58 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 14:14:08 INFO  TestInitilizer:32 - Exception occured while clicking on Your Trips button : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//span[@class='span span19 truncate']"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55405}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.3G3lgj}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a5a035ceac9f5bd2d4c23d09f6917432
+*** Element info: {Using=id, value=//span[@class='span span19 truncate']}
+2019-05-29 14:14:18 INFO  TestInitilizer:42 - Exception occured while clicking on Sign Button : org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55405}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.3G3lgj}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a5a035ceac9f5bd2d4c23d09f6917432
+2019-05-29 15:13:40 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 15:13:40 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:13:40 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:13:40 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:13:40 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:13:40 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:13:54 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:13:54 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:13:55 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:13:58 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:14:13 INFO  TestInitilizer:61 - Exception occured while clicking on SignIn button : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"signInButton"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56789}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.pCakn7}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 967dbcd931d733279cfdf4755057144b
+*** Element info: {Using=id, value=signInButton}
+2019-05-29 15:14:23 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:14:23 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:14:23 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:14:23 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:15:44 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 15:15:44 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:15:44 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:15:44 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:15:44 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:15:44 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:15:57 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:15:57 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:15:58 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:16:00 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:16:07 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:16:17 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:16:17 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:16:17 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:16:17 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:18:36 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 15:18:36 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:18:36 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:18:36 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:18:36 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:18:36 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:18:47 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:18:47 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:18:47 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:18:50 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:18:57 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:19:07 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 15:19:07 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:19:07 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:19:07 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:19:07 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:24:05 INFO  PropertiesCache:21 - java.io.BufferedInputStream@3159c4b8
+2019-05-29 15:24:05 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:24:05 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:24:05 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:24:05 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:24:05 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:24:25 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:24:25 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:24:25 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:24:30 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:24:31 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 15:24:32 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:24:32 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 15:24:32 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:24:32 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:24:32 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:24:32 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:28:53 INFO  PropertiesCache:21 - java.io.BufferedInputStream@7c0e2abd
+2019-05-29 15:28:53 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:28:53 INFO  ExtentManager:87 - Directory: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport is created!
+2019-05-29 15:28:53 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 15:31:19 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de8b406
+2019-05-29 15:31:19 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:31:19 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 15:31:19 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 15:32:54 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de8b406
+2019-05-29 15:32:54 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:32:54 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 15:32:54 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 15:32:54 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:32:54 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:32:54 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:32:54 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:33:04 INFO  TestListener:32 - Test Suite started!
+2019-05-29 15:33:09 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:33:09 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 15:33:09 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 15:33:19 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 15:33:26 INFO  TestInitilizer:65 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 15:33:28 INFO  TestInitilizer:75 - Check In date selected
+2019-05-29 15:33:29 INFO  TestInitilizer:85 - Check out date selected
+2019-05-29 15:33:30 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 15:33:32 INFO  TestInitilizer:105 - Clicked on search hotels button
+2019-05-29 15:33:42 INFO  TestInitilizer:115 - Search summury validated
+2019-05-29 15:33:42 INFO  TestListener:95 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 15:33:42 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:33:43 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 15:33:45 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:33:45 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 15:33:45 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 15:33:45 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 15:33:45 INFO  TestInitilizer:58 - One way button selected
+2019-05-29 15:33:45 INFO  TestInitilizer:72 - Exception occured in enterFromCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:33:47 INFO  TestInitilizer:84 - Exception occured in enterToCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:33:48 INFO  TestInitilizer:94 - Exception occured in selectDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 15:33:49 INFO  TestInitilizer:102 - Clicked on search flight button
+2019-05-29 15:33:55 INFO  TestInitilizer:114 - Exception occured in clickOnSearchFlightsButton methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"class name","selector":"searchSummary"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=class name, value=searchSummary}
+2019-05-29 15:33:55 INFO  Retry:31 - Going to retry test case: OneWayFlightBookingTest.testThatResultsAppearForAOneWayJourney()[pri:0, instance:com.testvagrant.tests.OneWayFlightBookingTest@5cdd8682], 1 out of 2
+2019-05-29 15:33:55 INFO  TestListener:132 - testThatResultsAppearForAOneWayJourney skipped!
+2019-05-29 15:33:55 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:33:55 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:33:55 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 15:33:55 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 15:33:55 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 15:33:55 INFO  TestInitilizer:58 - One way button selected
+2019-05-29 15:34:01 INFO  TestInitilizer:72 - Exception occured in enterFromCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:34:07 INFO  TestInitilizer:84 - Exception occured in enterToCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:34:13 INFO  TestInitilizer:94 - Exception occured in selectDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 15:34:14 INFO  TestInitilizer:102 - Clicked on search flight button
+2019-05-29 15:34:20 INFO  TestInitilizer:114 - Exception occured in clickOnSearchFlightsButton methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"class name","selector":"searchSummary"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=class name, value=searchSummary}
+2019-05-29 15:34:20 INFO  Retry:31 - Going to retry test case: OneWayFlightBookingTest.testThatResultsAppearForAOneWayJourney()[pri:0, instance:com.testvagrant.tests.OneWayFlightBookingTest@5cdd8682], 2 out of 2
+2019-05-29 15:34:20 INFO  TestListener:132 - testThatResultsAppearForAOneWayJourney skipped!
+2019-05-29 15:34:20 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:34:20 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:34:20 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 15:34:20 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 15:34:20 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 15:34:20 INFO  TestInitilizer:58 - One way button selected
+2019-05-29 15:34:26 INFO  TestInitilizer:72 - Exception occured in enterFromCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:34:32 INFO  TestInitilizer:84 - Exception occured in enterToCity methodorg.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+2019-05-29 15:34:38 INFO  TestInitilizer:94 - Exception occured in selectDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 15:34:39 INFO  TestInitilizer:102 - Clicked on search flight button
+2019-05-29 15:34:45 INFO  TestInitilizer:114 - Exception occured in clickOnSearchFlightsButton methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"class name","selector":"searchSummary"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58102}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.Xd0Wre}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 512bce83b3ff705f1ae67ee14845d85c
+*** Element info: {Using=class name, value=searchSummary}
+2019-05-29 15:34:45 INFO  TestListener:122 - testThatResultsAppearForAOneWayJourney failed!
+2019-05-29 15:34:45 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:34:45 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 15:34:49 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:34:49 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:34:49 INFO  TestListener:83 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 15:34:49 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:34:52 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:34:53 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 15:34:54 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:34:54 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 15:34:54 INFO  TestListener:95 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 15:34:54 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:34:54 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:34:54 INFO  TestListener:44 - failedTestCases
+2019-05-29 15:34:54 INFO  TestListener:48 - Failed test case: [TestResult name=testThatResultsAppearForAOneWayJourney status=FAILURE method=OneWayFlightBookingTest.testThatResultsAppearForAOneWayJourney()[pri:0, instance:com.testvagrant.tests.OneWayFlightBookingTest@5cdd8682] output={null}] Failed test method: OneWayFlightBookingTest.testThatResultsAppearForAOneWayJourney()[pri:0, instance:com.testvagrant.tests.OneWayFlightBookingTest@5cdd8682]
+2019-05-29 15:34:54 INFO  TestListener:61 - Test Suite is ending!
+2019-05-29 15:34:54 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:34:54 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:42:20 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de8b406
+2019-05-29 15:42:20 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:42:20 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 15:42:20 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 15:42:21 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:42:21 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:42:21 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:42:21 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:42:31 INFO  TestListener:32 - Test Suite started!
+2019-05-29 15:42:34 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:42:34 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 15:42:34 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 15:42:34 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 15:42:34 INFO  TestInitilizer:61 - One way button selected
+2019-05-29 15:42:40 INFO  TestInitilizer:73 - Selected from city : Bangalore
+2019-05-29 15:42:45 INFO  TestInitilizer:85 - Selected to city : Delhi
+2019-05-29 15:42:46 INFO  TestInitilizer:95 - Clicked on depart date
+2019-05-29 15:42:46 INFO  TestInitilizer:105 - Travel date selected as 16th of June
+2019-05-29 15:42:48 INFO  TestInitilizer:115 - Clicked on search flight button
+2019-05-29 15:42:49 INFO  TestInitilizer:125 - Clicked on search flight button
+2019-05-29 15:42:49 INFO  TestListener:95 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-05-29 15:42:49 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:42:49 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 15:42:53 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:42:53 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 15:42:53 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 15:43:06 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 15:43:11 INFO  TestInitilizer:67 - Exception occured in enterLocationToSearchHotel method : java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-05-29 15:43:13 INFO  TestInitilizer:77 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59519}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.GLAIjU}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e332f0c97f00af483af761e0fd3523ae
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 15:43:14 INFO  TestInitilizer:87 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59519}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.GLAIjU}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e332f0c97f00af483af761e0fd3523ae
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-05-29 15:43:15 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 15:43:16 INFO  TestInitilizer:107 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels" disabled="disabled"> is not clickable at point (1018, 408). Other element would receive the click: <a id="ui-id-9" tabindex="-1">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59519}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.GLAIjU}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e332f0c97f00af483af761e0fd3523ae
+2019-05-29 15:43:56 INFO  TestInitilizer:117 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59519}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.GLAIjU}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e332f0c97f00af483af761e0fd3523ae
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-05-29 15:43:56 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@5cdd8682], 1 out of 2
+2019-05-29 15:43:56 INFO  TestListener:132 - shouldBeAbleToSearchForHotels skipped!
+2019-05-29 15:43:56 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:43:56 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:43:56 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 15:43:56 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 15:44:01 INFO  TestInitilizer:52 - Clicked on hotels link
+2019-05-29 15:44:05 INFO  TestInitilizer:65 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 15:44:07 INFO  TestInitilizer:75 - Check In date selected
+2019-05-29 15:44:08 INFO  TestInitilizer:85 - Check out date selected
+2019-05-29 15:44:09 INFO  TestInitilizer:95 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 15:44:11 INFO  TestInitilizer:105 - Clicked on search hotels button
+2019-05-29 15:44:25 INFO  TestInitilizer:115 - Search summury validated
+2019-05-29 15:44:25 INFO  TestListener:95 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 15:44:25 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:44:25 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 15:44:30 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:44:30 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:44:30 INFO  TestListener:83 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 15:44:31 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:44:34 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:44:35 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 15:44:36 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:44:36 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 15:44:36 INFO  TestListener:95 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 15:44:36 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:44:36 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:44:36 INFO  TestListener:59 - Congrats, All test cases are passed
+2019-05-29 15:44:36 INFO  TestListener:61 - Test Suite is ending!
+2019-05-29 15:44:37 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:44:37 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 15:55:25 INFO  PropertiesCache:21 - java.io.BufferedInputStream@4de8b406
+2019-05-29 15:55:25 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 15:55:25 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 15:55:25 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 15:55:25 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 15:55:25 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 15:55:25 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 15:55:25 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 15:55:35 INFO  TestListener:32 - Test Suite started!
+2019-05-29 15:55:41 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:55:41 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 15:55:41 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 15:55:42 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 15:55:42 INFO  TestInitilizer:61 - One way button selected
+2019-05-29 15:55:48 INFO  TestInitilizer:73 - Selected from city : Bangalore
+2019-05-29 15:55:53 INFO  TestInitilizer:85 - Selected to city : Delhi
+2019-05-29 15:55:55 INFO  TestInitilizer:95 - Clicked on depart date
+2019-05-29 15:55:55 INFO  TestInitilizer:105 - Travel date selected as 16th of June
+2019-05-29 15:55:57 INFO  TestInitilizer:115 - Clicked on search flight button
+2019-05-29 15:55:58 INFO  TestInitilizer:125 - Clicked on search flight button
+2019-05-29 15:55:58 INFO  TestListener:95 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-05-29 15:55:58 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 15:55:58 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 15:56:03 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:56:03 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 15:56:03 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 15:56:10 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 15:56:15 INFO  TestInitilizer:71 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 15:56:17 INFO  TestInitilizer:81 - clicked on checkin date
+2019-05-29 15:56:17 INFO  TestInitilizer:91 - Check In date selected
+2019-05-29 15:56:18 INFO  TestInitilizer:101 - clicked on checkout date
+2019-05-29 15:56:18 INFO  TestInitilizer:111 - Check out date selected
+2019-05-29 15:56:19 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 15:56:21 INFO  TestInitilizer:131 - Clicked on search hotels button
+2019-05-29 15:57:01 INFO  TestInitilizer:143 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63131}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.aWhZRO}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 908be05c10c4266d0d57cad60d0fe064
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-05-29 15:57:01 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@5cdd8682], 1 out of 2
+2019-05-29 15:57:01 INFO  TestListener:132 - shouldBeAbleToSearchForHotels skipped!
+2019-05-29 15:57:01 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:57:01 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:57:01 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 15:57:01 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 15:57:09 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 15:57:13 INFO  TestInitilizer:71 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 15:57:16 INFO  TestInitilizer:81 - clicked on checkin date
+2019-05-29 15:57:16 INFO  TestInitilizer:91 - Check In date selected
+2019-05-29 15:57:17 INFO  TestInitilizer:101 - clicked on checkout date
+2019-05-29 15:57:17 INFO  TestInitilizer:111 - Check out date selected
+2019-05-29 15:57:18 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 15:57:20 INFO  TestInitilizer:131 - Clicked on search hotels button
+2019-05-29 15:57:35 INFO  TestInitilizer:141 - Search summury validated
+2019-05-29 15:57:35 INFO  TestListener:95 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 15:57:35 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 15:57:35 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 15:57:38 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:57:38 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 15:57:38 INFO  TestListener:83 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 15:57:39 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 15:57:44 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 15:57:45 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 15:57:46 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 15:57:46 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 15:57:46 INFO  TestListener:95 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 15:57:46 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 15:57:46 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 15:57:46 INFO  TestListener:59 - Congrats, All test cases are passed
+2019-05-29 15:57:46 INFO  TestListener:61 - Test Suite is ending!
+2019-05-29 15:57:46 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 15:57:46 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 16:00:56 INFO  PropertiesCache:21 - java.io.BufferedInputStream@7c0e2abd
+2019-05-29 16:00:56 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 16:00:56 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 16:00:56 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 16:00:56 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 16:00:56 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 16:00:56 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 16:00:56 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 16:01:08 INFO  TestListener:32 - Test Suite started!
+2019-05-29 16:01:13 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:01:13 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 16:01:13 INFO  TestListener:83 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 16:01:13 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 16:01:13 INFO  TestInitilizer:61 - One way button selected
+2019-05-29 16:01:21 INFO  TestInitilizer:73 - Selected from city : Bangalore
+2019-05-29 16:01:26 INFO  TestInitilizer:85 - Selected to city : Delhi
+2019-05-29 16:01:27 INFO  TestInitilizer:95 - Clicked on depart date
+2019-05-29 16:01:27 INFO  TestInitilizer:105 - Travel date selected as 16th of June
+2019-05-29 16:01:29 INFO  TestInitilizer:115 - Clicked on search flight button
+2019-05-29 16:01:30 INFO  TestInitilizer:125 - Clicked on search flight button
+2019-05-29 16:01:30 INFO  TestListener:95 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-05-29 16:01:30 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:01:30 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 16:01:35 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:01:35 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 16:01:35 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 16:01:47 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 16:01:51 INFO  TestInitilizer:73 - Exception occured in enterLocationToSearchHotel method : java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-05-29 16:01:53 INFO  TestInitilizer:83 - Exception occured in clickOnCheckInDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-in date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.totalDur" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="fromHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" data-next-date-offset="1#CheckOutDate#HotelDuration" class="checkin_date keyValue span span24 hasDatepicker placeholder" id="CheckInDate" size="10" placeholder="Pick a date" etitle="Check in date" tabindex="3"> is not clickable at point (619, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+2019-05-29 16:01:53 INFO  TestInitilizer:93 - Exception occured in selectCheckInDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[2]//table/tbody/tr[3]/td[7]/a}
+2019-05-29 16:01:54 INFO  TestInitilizer:103 - Exception occured in clickOnCheckOutDate methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="text" title="Check-out date" data-customevent="true" data-warningvalidator="true" readonly="" data-warncallback="ctWarnFunc.stayWar" data-datepicker="click" autocomplete="off" autocorrect="off" data-number-of-months="2" data-date-format="D, d M, yy" data-before-show-day="highlightDays" data-on-select="toHandler" data-button-image-only="true" data-min-date="0" data-max-date="+1Y" class="checkout_date keyValue span span24 date hasDatepicker placeholder" id="CheckOutDate" size="10" placeholder="Pick a date" etitle="Check out date" tabindex="4"> is not clickable at point (800, 283). Other element would receive the click: <a id="ui-id-5" tabindex="-1">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+2019-05-29 16:01:54 INFO  TestInitilizer:113 - Exception occured in selectCheckOutDate methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+*** Element info: {Using=xpath, value=//*[@id='ui-datepicker-div']/div[1]//table/tbody/tr[4]/td[7]/a}
+2019-05-29 16:01:55 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 16:01:56 INFO  TestInitilizer:133 - Exception occured in clickOnSearchHotelsButton methodorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" id="SearchHotelsButton" class="booking " value="Search hotels" disabled="disabled"> is not clickable at point (1018, 408). Other element would receive the click: <a id="ui-id-9" tabindex="-1">...</a>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+2019-05-29 16:02:36 INFO  TestInitilizer:143 - Exception occured in validateSummaryOnResultPage methodorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LM0000185', ip: 'fe80:0:0:0:1ccb:47fe:986:6722%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64904}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=MAC, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=/var/folders/38/vfky8vr17nz759d7cl25vp90d3dtbs/T/.com.google.Chrome.G1lohn}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9c73ad0706a76be3b7ca9f307723b14
+*** Element info: {Using=xpath, value=//section[@class='secondaryBar listViewSecondaryBar']//span[contains(text(),'Showing properties by distance from')]}
+2019-05-29 16:02:36 INFO  Retry:31 - Going to retry test case: HotelRoomBookingTest.shouldBeAbleToSearchForHotels()[pri:0, instance:com.testvagrant.tests.HotelRoomBookingTest@45afc369], 1 out of 2
+2019-05-29 16:02:36 INFO  TestListener:132 - shouldBeAbleToSearchForHotels skipped!
+2019-05-29 16:02:36 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:02:36 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:02:36 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 16:02:36 INFO  TestListener:83 - shouldBeAbleToSearchForHotels started!
+2019-05-29 16:02:46 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 16:02:50 INFO  TestInitilizer:71 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 16:02:52 INFO  TestInitilizer:81 - clicked on checkin date
+2019-05-29 16:02:52 INFO  TestInitilizer:91 - Check In date selected
+2019-05-29 16:02:53 INFO  TestInitilizer:101 - clicked on checkout date
+2019-05-29 16:02:53 INFO  TestInitilizer:111 - Check out date selected
+2019-05-29 16:02:54 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 16:02:56 INFO  TestInitilizer:131 - Clicked on search hotels button
+2019-05-29 16:03:12 INFO  TestInitilizer:141 - Search summury validated
+2019-05-29 16:03:12 INFO  TestListener:95 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 16:03:12 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:03:12 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 16:03:17 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:03:17 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 16:03:17 INFO  TestListener:83 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 16:03:18 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 16:03:21 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 16:03:22 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 16:03:23 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 16:03:24 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 16:03:24 INFO  TestListener:95 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 16:03:24 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:03:24 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 16:03:24 INFO  TestListener:59 - Congrats, All test cases are passed
+2019-05-29 16:03:24 INFO  TestListener:61 - Test Suite is ending!
+2019-05-29 16:03:24 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 16:03:24 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 16:06:34 INFO  PropertiesCache:21 - java.io.BufferedInputStream@7c0e2abd
+2019-05-29 16:06:34 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 16:06:34 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 16:06:34 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 16:06:35 INFO  TestInitilizer:42 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 16:06:35 INFO  TestInitilizer:54 -  =================================================== 
+2019-05-29 16:06:35 INFO  TestInitilizer:55 - Url is :: https://www.cleartrip.com/
+2019-05-29 16:06:35 INFO  TestInitilizer:56 -  =================================================== 
+2019-05-29 16:06:46 INFO  TestListener:33 - Test Suite started!
+2019-05-29 16:06:49 INFO  TestInitilizer:78 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:06:49 INFO  TestInitilizer:79 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 16:06:49 INFO  TestListener:84 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 16:06:49 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 16:06:51 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 16:06:52 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 16:06:53 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 16:06:53 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 16:06:53 INFO  TestListener:96 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 16:06:53 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:06:53 INFO  TestInitilizer:71 - Tests Ended from class :::::UserSignInTest
+2019-05-29 16:06:58 INFO  TestInitilizer:78 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:06:58 INFO  TestInitilizer:79 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 16:06:58 INFO  TestListener:84 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 16:06:58 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 16:06:59 INFO  TestInitilizer:61 - One way button selected
+2019-05-29 16:07:05 INFO  TestInitilizer:73 - Selected from city : Bangalore
+2019-05-29 16:07:11 INFO  TestInitilizer:85 - Selected to city : Delhi
+2019-05-29 16:07:13 INFO  TestInitilizer:95 - Clicked on depart date
+2019-05-29 16:07:13 INFO  TestInitilizer:105 - Travel date selected as 16th of June
+2019-05-29 16:07:14 INFO  TestInitilizer:115 - Clicked on search flight button
+2019-05-29 16:07:15 INFO  TestInitilizer:125 - Clicked on search flight button
+2019-05-29 16:07:15 INFO  TestListener:96 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-05-29 16:07:15 INFO  TestInitilizer:86 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:07:15 INFO  TestInitilizer:71 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 16:07:20 INFO  TestInitilizer:78 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:07:20 INFO  TestInitilizer:79 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 16:07:20 INFO  TestListener:84 - shouldBeAbleToSearchForHotels started!
+2019-05-29 16:07:29 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 16:07:33 INFO  TestInitilizer:71 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 16:07:35 INFO  TestInitilizer:81 - clicked on checkin date
+2019-05-29 16:07:35 INFO  TestInitilizer:91 - Check In date selected
+2019-05-29 16:07:36 INFO  TestInitilizer:101 - clicked on checkout date
+2019-05-29 16:07:36 INFO  TestInitilizer:111 - Check out date selected
+2019-05-29 16:07:38 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 16:07:39 INFO  TestInitilizer:131 - Clicked on search hotels button
+2019-05-29 16:07:49 INFO  TestInitilizer:141 - Search summury validated
+2019-05-29 16:07:49 INFO  TestListener:96 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 16:07:49 INFO  TestInitilizer:86 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:07:49 INFO  TestInitilizer:71 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 16:07:49 INFO  TestListener:60 - Congrats, All test cases are passed
+2019-05-29 16:07:49 INFO  TestListener:62 - Test Suite is ending!
+2019-05-29 16:07:49 INFO  TestInitilizer:92 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 16:07:49 INFO  TestInitilizer:93 - Suite ended
+2019-05-29 16:12:38 INFO  PropertiesCache:21 - java.io.BufferedInputStream@7c0e2abd
+2019-05-29 16:12:38 INFO  PropertiesCache:22 - Read all properties from file
+2019-05-29 16:12:38 INFO  ExtentManager:92 - Directory already exists: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+2019-05-29 16:12:38 INFO  ExtentManager:68 - ExtentReport Path for MAC: /Users/jeevan.nikam/Documents/GitHub/codingRound/TestReport
+
+2019-05-29 16:12:38 INFO  TestInitilizer:44 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-05-29 16:12:38 INFO  TestInitilizer:60 -  =================================================== 
+2019-05-29 16:12:38 INFO  TestInitilizer:61 - Url is :: https://www.cleartrip.com/
+2019-05-29 16:12:38 INFO  TestInitilizer:62 -  =================================================== 
+2019-05-29 16:12:48 INFO  TestListener:33 - Test Suite started!
+2019-05-29 16:12:51 INFO  TestInitilizer:84 - Testcase name is :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:12:51 INFO  TestInitilizer:85 - shouldThrowAnErrorIfSignInDetailsAreMissing Started ::::
+2019-05-29 16:12:51 INFO  TestListener:84 - shouldThrowAnErrorIfSignInDetailsAreMissing started!
+2019-05-29 16:12:51 INFO  TestInitilizer:30 - Clicked on Your trips
+2019-05-29 16:12:55 INFO  TestInitilizer:40 - Clicked on SignIn Button
+2019-05-29 16:12:56 INFO  TestInitilizer:341 - Switched to frame : modal_window
+2019-05-29 16:12:57 INFO  TestInitilizer:59 - Clicked on signIn button
+2019-05-29 16:12:57 INFO  TestInitilizer:69 - Error message captured
+2019-05-29 16:12:57 INFO  TestListener:96 - Test caseshouldThrowAnErrorIfSignInDetailsAreMissing passed!
+2019-05-29 16:12:57 INFO  TestInitilizer:92 - Testcase execution completed :::::: shouldThrowAnErrorIfSignInDetailsAreMissing
+2019-05-29 16:12:57 INFO  TestInitilizer:77 - Tests Ended from class :::::UserSignInTest
+2019-05-29 16:13:02 INFO  TestInitilizer:84 - Testcase name is :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:13:02 INFO  TestInitilizer:85 - testThatResultsAppearForAOneWayJourney Started ::::
+2019-05-29 16:13:02 INFO  TestListener:84 - testThatResultsAppearForAOneWayJourney started!
+2019-05-29 16:13:02 INFO  TestInitilizer:334 - Element is displayed AttendanceButton
+2019-05-29 16:13:02 INFO  TestInitilizer:61 - One way button selected
+2019-05-29 16:13:09 INFO  TestInitilizer:73 - Selected from city : Bangalore
+2019-05-29 16:13:15 INFO  TestInitilizer:85 - Selected to city : Delhi
+2019-05-29 16:13:16 INFO  TestInitilizer:95 - Clicked on depart date
+2019-05-29 16:13:16 INFO  TestInitilizer:105 - Travel date selected as 16th of June
+2019-05-29 16:13:19 INFO  TestInitilizer:115 - Clicked on search flight button
+2019-05-29 16:13:20 INFO  TestInitilizer:125 - Clicked on search flight button
+2019-05-29 16:13:20 INFO  TestListener:96 - Test casetestThatResultsAppearForAOneWayJourney passed!
+2019-05-29 16:13:20 INFO  TestInitilizer:92 - Testcase execution completed :::::: testThatResultsAppearForAOneWayJourney
+2019-05-29 16:13:20 INFO  TestInitilizer:77 - Tests Ended from class :::::OneWayFlightBookingTest
+2019-05-29 16:13:24 INFO  TestInitilizer:84 - Testcase name is :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:13:24 INFO  TestInitilizer:85 - shouldBeAbleToSearchForHotels Started ::::
+2019-05-29 16:13:24 INFO  TestListener:84 - shouldBeAbleToSearchForHotels started!
+2019-05-29 16:13:30 INFO  TestInitilizer:58 - Clicked on hotels link
+2019-05-29 16:13:34 INFO  TestInitilizer:71 - Location entered for search hotel : Indiranagar, Bangalore
+2019-05-29 16:13:36 INFO  TestInitilizer:81 - clicked on checkin date
+2019-05-29 16:13:36 INFO  TestInitilizer:91 - Check In date selected
+2019-05-29 16:13:37 INFO  TestInitilizer:101 - clicked on checkout date
+2019-05-29 16:13:37 INFO  TestInitilizer:111 - Check out date selected
+2019-05-29 16:13:38 INFO  TestInitilizer:121 - Travellers selected from dropdown : 1 room, 2 adults
+2019-05-29 16:13:40 INFO  TestInitilizer:131 - Clicked on search hotels button
+2019-05-29 16:13:50 INFO  TestInitilizer:141 - Search summury validated
+2019-05-29 16:13:50 INFO  TestListener:96 - Test caseshouldBeAbleToSearchForHotels passed!
+2019-05-29 16:13:50 INFO  TestInitilizer:92 - Testcase execution completed :::::: shouldBeAbleToSearchForHotels
+2019-05-29 16:13:50 INFO  TestInitilizer:77 - Tests Ended from class :::::HotelRoomBookingTest
+2019-05-29 16:13:50 INFO  TestListener:60 - Congrats, All test cases are passed
+2019-05-29 16:13:50 INFO  TestListener:62 - Test Suite is ending!
+2019-05-29 16:13:50 INFO  TestInitilizer:98 - Logger Info:: Inside suiteEndReached Method
+2019-05-29 16:13:50 INFO  TestInitilizer:99 - Suite ended

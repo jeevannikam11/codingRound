@@ -1,10 +1,10 @@
-import com.sun.javafx.PlatformUtil;
+
+import com.sun.jna.Platform;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -18,7 +18,8 @@ public class FlightBookingTest {
     @Test
     public void testThatResultsAppearForAOneWayJourney() {
 
-        setDriverPath();
+        //setDriverPath();
+    	System.setProperty("webdriver.chrome.driver", "chromedriver_linux");
         driver.get("https://www.cleartrip.com/");
         waitFor(2000);
         driver.findElement(By.id("OneWay")).click();
@@ -76,13 +77,13 @@ public class FlightBookingTest {
     }
 
     private void setDriverPath() {
-        if (PlatformUtil.isMac()) {
+        if (Platform.isMac()) {
             System.setProperty("webdriver.chrome.driver", "chromedriver");
         }
-        if (PlatformUtil.isWindows()) {
+        if (Platform.isWindows()) {
             System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         }
-        if (PlatformUtil.isLinux()) {
+        if (Platform.isLinux()) {
             System.setProperty("webdriver.chrome.driver", "chromedriver_linux");
         }
     }
